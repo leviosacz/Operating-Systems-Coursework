@@ -5,7 +5,7 @@ One thread, the producer, will generate a sequence of integers and write them in
 
 ## Running the Program
 
-I included source code and a JAR file. To run the program on Linux, you can use the following command:
+I included source code and a JAR file. To run the program, you can use the following command:
 
 `java -jar prodcon.jar [numConsumers]`
 
